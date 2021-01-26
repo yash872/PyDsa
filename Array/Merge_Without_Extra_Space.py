@@ -24,7 +24,7 @@ def merge(arr1,arr2,n,m):
             
             first=arr2[0]
             k=1
-            while(k<n and arr2[k]<first):
+            while(k<m and arr2[k]<first):
                 arr2[k-1]=arr2[k]
                 k+=1
             arr2[k-1]=first
