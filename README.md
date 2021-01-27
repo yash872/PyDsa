@@ -12,4 +12,5 @@ Data Structures and Algorithms problems in Python ❤
 |  5    | [Maximum_Subarray](https://github.com/yash872/PyDsa/blob/main/Array/Maximum_Subarray.py)                               |  Array   |
 |  6    | [Merge_Intervals](https://github.com/yash872/PyDsa/blob/main/Array/Merge_Intervals.py)                                 |  Array   |
 |  7    | [Set_Matrix_Zeroes](https://github.com/yash872/PyDsa/blob/main/Array/Set_Matrix_Zeroes.py)                             |  Array   |
+|  8    | [Pascal's_Triangle](https://github.com/yash872/PyDsa/blob/main/Array/Pascal's_Triangle.py)                             |  Array   |
 
