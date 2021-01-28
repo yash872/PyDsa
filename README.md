@@ -16,4 +16,5 @@ Data Structures and Algorithms problems in Python ❤
 |  8    | [Pascal's_Triangle](https://github.com/yash872/PyDsa/blob/main/Array/Pascal's_Triangle.py)                             |  Array   |
 |  9    | [Next_Permutation](https://github.com/yash872/PyDsa/blob/main/Array/Next_Permutation.py)                               |  Array   |
 |  10   | [Count_Inversion](https://github.com/yash872/PyDsa/blob/main/Array/Count_Inversion.py)                                 |  Array   |
+|  11   | [Buy_Sell_Stock](https://github.com/yash872/PyDsa/blob/main/Array/Buy_Sell_Stock.py)                                   |  Array   |
 
