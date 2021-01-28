@@ -17,4 +17,5 @@ Data Structures and Algorithms problems in Python ❤
 |  9    | [Next_Permutation](https://github.com/yash872/PyDsa/blob/main/Array/Next_Permutation.py)                               |  Array   |
 |  10   | [Count_Inversion](https://github.com/yash872/PyDsa/blob/main/Array/Count_Inversion.py)                                 |  Array   |
 |  11   | [Buy_Sell_Stock](https://github.com/yash872/PyDsa/blob/main/Array/Buy_Sell_Stock.py)                                   |  Array   |
+|  12   | [Rotate_Image](https://github.com/yash872/PyDsa/blob/main/Array/Rotate_Image.py)                                       |  Array   |
 
