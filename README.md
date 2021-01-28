@@ -15,4 +15,5 @@ Data Structures and Algorithms problems in Python ❤
 |  7    | [Set_Matrix_Zeroes](https://github.com/yash872/PyDsa/blob/main/Array/Set_Matrix_Zeroes.py)                             |  Array   |
 |  8    | [Pascal's_Triangle](https://github.com/yash872/PyDsa/blob/main/Array/Pascal's_Triangle.py)                             |  Array   |
 |  9    | [Next_Permutation](https://github.com/yash872/PyDsa/blob/main/Array/Next_Permutation.py)                               |  Array   |
+|  10   | [Count_Inversion](https://github.com/yash872/PyDsa/blob/main/Array/Count_Inversion.py)                                 |  Array   |
 
