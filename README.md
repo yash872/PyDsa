@@ -1,5 +1,5 @@
 # PyDsa
-Data Structures and Algorithms problems in Python ❤Search_a_2D_Matrix2.py
+Data Structures and Algorithms problems in Python ❤
 
 
 ### Table of Contents
