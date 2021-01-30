@@ -1,5 +1,5 @@
 # PyDsa
-Data Structures and Algorithms problems in Python ❤
+Data Structures and Algorithms problems in Python ❤Search_a_2D_Matrix2.py
 
 
 ### Table of Contents
@@ -18,5 +18,6 @@ Data Structures and Algorithms problems in Python ❤
 |  10   | [Count_Inversion](https://github.com/yash872/PyDsa/blob/main/Array/Count_Inversion.py)                                 |  Array   |
 |  11   | [Buy_Sell_Stock](https://github.com/yash872/PyDsa/blob/main/Array/Buy_Sell_Stock.py)                                   |  Array   |
 |  12   | [Rotate_Image](https://github.com/yash872/PyDsa/blob/main/Array/Rotate_Image.py)                                       |  Array   |
-|  13   | [Search_a_2D_Matrix](https://github.com/yash872/PyDsa/blob/main/Array/Search_a_2D_Matrix.py)                           |  Array   |
+|  13.1 | [Search_a_2D_Matrix-LeetCode](https://github.com/yash872/PyDsa/blob/main/Array/Search_a_2D_Matrix.py)                  |  Array   |
+|  13.2 | [Search_a_2D_Matrix2-GFG](https://github.com/yash872/PyDsa/blob/main/Array/Search_a_2D_Matrix2.py)                     |  Array   |
 
