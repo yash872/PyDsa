@@ -10,8 +10,25 @@ From the top-left corner, there are a total of 3 ways to reach the bottom-right 
 2. Down -> Down -> Right
 3. Down -> Right -> Down
 '''
+#-------- Recursion ------------------
+# Time-> O(2^m+n-2) | Space-> O(1)
+#--------------------------------------
+class Solution:
+    def uniquePaths(self, m: int, n: int) -> int:
+        i,j=0,0
+        def paths(i,j,m,n,dp):
+            #Base Case
+            if(i==(m-1) and j==(n-1)):
+                return 1
+            if(i>=m or j>=n):
+                return 0
+            else:
+                return paths(i+1,j,m,n,dp)+paths(i,j+1,m,n,dp)
+                
+        return paths(i,j,m,n,dp)
+    
 #-------- Recursion + DP ------------------
-# Time-> O(2^m+n-2) | Space-> O(m x n)
+# Time-> O(m x n) | Space-> O(m x n)
 #------------------------------------------
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
@@ -32,7 +49,7 @@ class Solution:
         return paths(i,j,m,n,dp)
         
 #-------- Combinatorics ------------------
-# Time-> O(row) or O(col) | Space-> O(1)
+# Time-> O(m-1) or O(n-1) | Space-> O(1)
 #-----------------------------------------
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
