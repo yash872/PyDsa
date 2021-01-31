@@ -23,4 +23,5 @@ Data Structures and Algorithms problems in Python ❤
 |  14   | [Pow(x,n)](https://github.com/yash872/PyDsa/blob/main/Array/Pow(x,n).py)                                               |  Array   |
 |  15   | [Majority_Element_Nby2](https://github.com/yash872/PyDsa/blob/main/Array/Majority_Element_Nby2.py)                     |  Array   |
 |  16   | [Majority_Element_Nby3](https://github.com/yash872/PyDsa/blob/main/Array/Majority_Element_Nby3.py)                     |  Array   |
+|  17   | [Grid_Unique_Paths](https://github.com/yash872/PyDsa/blob/main/Array/Grid_Unique_Paths.py)                             |  Array   |
 
