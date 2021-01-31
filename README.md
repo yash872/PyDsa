@@ -20,4 +20,5 @@ Data Structures and Algorithms problems in Python ❤
 |  12   | [Rotate_Image](https://github.com/yash872/PyDsa/blob/main/Array/Rotate_Image.py)                                       |  Array   |
 |  13.1 | [Search_a_2D_Matrix-LeetCode](https://github.com/yash872/PyDsa/blob/main/Array/Search_a_2D_Matrix.py)                  |  Array   |
 |  13.2 | [Search_a_2D_Matrix2-GFG](https://github.com/yash872/PyDsa/blob/main/Array/Search_a_2D_Matrix2.py)                     |  Array   |
+|  14   | [Pow(x,n)](https://github.com/yash872/PyDsa/blob/main/Array/Pow(x,n).py)                                               |  Array   |
 
