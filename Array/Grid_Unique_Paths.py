@@ -16,16 +16,17 @@ From the top-left corner, there are a total of 3 ways to reach the bottom-right 
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
         i,j=0,0
-        def paths(i,j,m,n,dp):
+        def paths(i,j,m,n):
             #Base Case
             if(i==(m-1) and j==(n-1)):
                 return 1
             if(i>=m or j>=n):
                 return 0
+            
             else:
-                return paths(i+1,j,m,n,dp)+paths(i,j+1,m,n,dp)
+                return paths(i+1,j,m,n)+paths(i,j+1,m,n)
                 
-        return paths(i,j,m,n,dp)
+        return paths(i,j,m,n)
     
 #-------- Recursion + DP ------------------
 # Time-> O(m x n) | Space-> O(m x n)
