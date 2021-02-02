@@ -9,6 +9,14 @@ Output: 3
 Explanation: The sequence 2, 4, 1, 3, 5 
 has three inversions (2, 1), (4, 1), (4, 3).
 '''
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        min_so_far = float('inf')
+        profit = 0
+        for price in prices:
+            profit = max(profit,price-min_so_far)
+            min_so_far = min(min_so_far,price)
+        return profit
 #---------------------------------
 # Time-> O(nLogn) | Space-> O(n)
 #---------------------------------
