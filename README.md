@@ -1,5 +1,5 @@
 # PyDsa
-Data Structures and Algorithms problems in Python ❤❤❤❤
+Data Structures and Algorithms problems in Python ❤
 
 
 ### Table of Contents
