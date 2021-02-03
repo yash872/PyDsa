@@ -7,15 +7,6 @@ Example 1:
 Input: nums = [1,3,4,2,2]
 Output: 2
 '''
-
-
-def findDuplicate(self, nums: List[int]) -> int:
-    fast = slow = nums[0]
-    while True:
-        slow = nums[slow]
-        fast = nums[nums[fast]]
-
-
 def findDuplicate(self, nums: List[int]) -> int:
     fast = slow = nums[0]
     while True:
